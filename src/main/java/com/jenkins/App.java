@@ -6,9 +6,9 @@ package com.jenkins;
  */
 public class App 
 {
-    public static main( String[] args )
+    public main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "Started Jenkin Project" );
+        System.out.println( "Started Jenkin Project" )
     }
 }
